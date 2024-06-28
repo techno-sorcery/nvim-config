@@ -25,8 +25,8 @@ hi MatchParen ctermbg=243 guibg=#767676
 hi Visual ctermbg=241 guibg=#626262
 hi Search ctermbg=190 guibg=#d7ff00
 hi Pmenu ctermbg=236 guibg=#303030
-hi MoreMsg ctermfg=65 guifg=#5f875f
-hi Question ctermfg=65 guifg=#5f875f
+hi MoreMsg ctermfg=190 guifg=#d7ff00
+hi Question ctermfg=190 guifg=#d7ff00
 hi SpecialKey ctermfg=81 guifg=#5fd7ff
 hi Directory ctermfg=81 guifg=#5fd7ff
 

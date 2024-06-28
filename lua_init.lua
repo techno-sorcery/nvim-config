@@ -110,7 +110,12 @@ require("lazy").setup({
     "tpope/vim-surround",                   -- Change parentheses/quotes/etc
     "vim-airline/vim-airline",              -- Improved status bar
     "windwp/nvim-autopairs",                -- Pair parentheses and brackets
+    "folke/which-key.nvim",                 -- Pop-up for custom keybinds
 })
+
+
+-- Set up which-key
+require("which-key").setup();
 
 
 -- Set up nvim highlight colors
